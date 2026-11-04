@@ -1,2 +1,2 @@
-# Thingyanr
+# Thingyan
 Thingyan Water Festival Game
